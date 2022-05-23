@@ -2,3 +2,5 @@
 Sample project for Python Workshop (IE MBD)
 
 (Full description to be completed)
+
+(With extra information)
