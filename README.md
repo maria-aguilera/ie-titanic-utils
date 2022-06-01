@@ -26,6 +26,16 @@ pyenv
         |
         | - create environment (once per project)
             |
-            | Isolated environment (everyday)
+            | Isolated environment with both conda and pip  (everyday)
+
+
+Anaconda Inc. != Anaconda Distribution != conda
+|
+|- Anaconda Distribution (product)
+    |
+    | - conda (software)
+    | -pandas
+    | -scikit-learn
+     - ...
 
 

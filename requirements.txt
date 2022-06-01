@@ -1,0 +1,8 @@
+# pandas == 1.4
+# actually means
+# pandas == 1.4.0
+
+# pandas ~=1,4,0
+# which means# pandas >1.4.0 and pandas <1.5
+
+pandas ~=1.4.0
