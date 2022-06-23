@@ -10,3 +10,9 @@ dynamic = ["version", "description"]
 dependencies = [
     "pandas>=1.4",
 ]
+
+[project.optional-dependencies]
+
+dev = [
+    "black ==22.3.0",
+]
