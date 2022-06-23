@@ -3,7 +3,24 @@ Sample project for Python Workshop (IE MBD)
 
 (Full description to be completed)
 
-(With extra information)
+(With extra information) 
+
+## Install
+
+To install:
+
+```
+$ pip install .
+```
+
+## Development
+
+To develop more conveniently
+
+```
+$ pip install -e .
+```
+
 
 ## Solutions
 1. VERY BAD:" *Just" go to `/workspace/ie-titanic-utils`"
