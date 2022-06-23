@@ -34,7 +34,7 @@ $ pip install -e .
 
 
 # Installing Python
-
+```
 pyenv
 |
 |-miniforge3 (once per machine)
@@ -44,9 +44,12 @@ pyenv
         | - create environment (once per project)
             |
             | Isolated environment with both conda and pip  (everyday)
+```
 
 
 Anaconda Inc. != Anaconda Distribution != conda
+
+```
 |
 |- Anaconda Distribution (product)
     |
@@ -54,5 +57,7 @@ Anaconda Inc. != Anaconda Distribution != conda
     | -pandas
     | -scikit-learn
      - ...
+
+```
 
 
